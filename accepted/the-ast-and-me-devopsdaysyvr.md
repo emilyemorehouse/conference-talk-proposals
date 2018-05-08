@@ -8,6 +8,8 @@ DevOpsDays Vancouver
 April 20-21, 2018
 Vancouver, B.C.
 
+*Note:* I was invited to DevOpsDays after giving this talk at PyCascades 2018.
+
 Abstract/Elevator Pitch (max 300 characters):
 ---------------------------------------------
 Get under the hood and learn about Python's beloved Abstract Syntax Tree. We'll discuss the AST's role in Python's compilation process, how it affects Bytecode, and how you can use it's optimizations to improve your code's speed at runtime. Write better code!
